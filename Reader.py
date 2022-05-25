@@ -17,7 +17,7 @@ def readWeaponFile():
 
 def readArmorFile():
     global armorList
-    armorFile = open('armor.txt')
+    armorFile = open("armor.txt")
     holder = []
     for line in armorFile:
         holder = line.split()

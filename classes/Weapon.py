@@ -5,5 +5,3 @@ class Weapon:
         self.damage = damage
         self.damageType = damageType
     
-    def getData(self):
-        print(self)

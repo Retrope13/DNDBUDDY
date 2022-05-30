@@ -9,8 +9,6 @@ class PC:
         self.inventory = inventory
         self.gold = gold
     
-    def printInv(self):
-        print(self.inventory)
-    
-    def setProp(self, prop, newVal):
-        self.prop = newVal
+    def printChar(self):
+        data = str(self.name) + '\n' + str(self.char_class) + '\n' + str(self.gold) + '\n' + str(self.level) + '\n' + str(self.stats) + ' \n' + str(self.inventory) + '\n'
+        return data

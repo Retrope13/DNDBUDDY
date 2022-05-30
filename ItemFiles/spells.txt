@@ -131,15 +131,15 @@ Heironeous, Righteousness of
 Henley's Digit of Disruption
 Hextor's Fiery Eyes
 Hibyrntic's Curse
-Horizikaul�s Boom
-Horizikaul�s Cough
-Horizikaul�s Versatile Vibration
+Horizikaul's Boom
+Horizikaul's Cough
+Horizikaul's Versatile Vibration
 Hornung's Baneful Deflector
 Hornung's Guess
 Hornung's Surge Selector
 Hred's Touch
 Ilsensine, Brain Slave of
-Igedrazaar�s Miasma
+Igedrazaar's Miasma
 Iggwilv's Lightning Cage
 Iggwilv's Timeless Sleep
 Tasha's Uncontrollable Hideous Laughter
@@ -167,14 +167,14 @@ Kord's Power Surge
 Kreshenk's Shadow Mask
 Laeral's Aqueous Column
 Laeral's Dancing Dweomer
-Laeral�s Cutting Hand
+Laeral's Cutting Hand
 Laeral's Silver Lance
 Lahm's Finger Darts
-Laogzed�s Breath
+Laogzed's Breath
 Larloch's Minor Drain
 Laruin's Blinding Blizzard
 Lauthdryn's Cleaving
-Leomund�s Hidden Lodge
+Leomund's Hidden Lodge
 Leomund's Lamentable Belaborment
 Leomund's Lifeboat
 Leomund's Many Life Preservers
@@ -196,8 +196,8 @@ Mellix's Fire Mouth
 Mentap's Mine
 Merald's Murderous Mist
 Merrshaulk's Kiss
-Mestil�s Acid Breath
-Mestil�s Acid Sheath
+Mestil's Acid Breath
+Mestil's Acid Sheath
 Moradin's Metal
 Mordenkainen's Buzzing Bee
 Mordenkainen's Capable Caravel
@@ -233,7 +233,7 @@ Mystra's Unraveling
 Nahal's Nonsensical Nullifier
 Nahal's Reckless Dweomer
 Narcomb's Battened Hatches
-Nchaser�s Glowing Orb
+Nchaser's Glowing Orb
 Nerran's Guardlock
 Nerthus, Slumber of
 Nerull's Scythe
@@ -242,12 +242,12 @@ Nezram's Ruby Ray
 Nimodes' Major Delousing
 Nimodes' Unseen Butler
 Nulathoe's Ninemen
-Nybor�s Gentle Reminder
+Nybor's Gentle Reminder
 Nybor's Joyful Voyage
-Nybor�s Mild Admonishment
+Nybor's Mild Admonishment
 Nybor's Psychic Imprint
-Nybor�s Stern Reproof
-Nybor�s Wrathful Castigation
+Nybor's Stern Reproof
+Nybor's Wrathful Castigation
 Nystul's Blazing Beam
 Nystul's Blacklight Burst
 Nystul's Blackmote
@@ -287,7 +287,7 @@ Otiluke's Excruciating Screen
 Otiluke's Fire and Ice
 Otiluke's Force Umbrella
 Otiluke's Freezing Sphere
-Otiluke�s Greater Dispelling Screen
+Otiluke's Greater Dispelling Screen
 Otiluke's Orb of Containment
 Otiluke's Polar Screen
 Otiluke's Radiant Screen
@@ -354,7 +354,7 @@ Simbul's Synostodweomer
 Slerotin's Fortitude
 Snilloc's Major Missle
 Snilloc's Snowball
-Snilloc�s Snowball Swarm
+Snilloc's Snowball Swarm
 Sorrel's Dirge
 Sortil's Aqueous Transfer
 Spendelard's Chaser
@@ -388,25 +388,25 @@ Theller's Argauneau
 Thultaun's Thrust
 Thundaerl's Universal Taster
 Thunguul's Preservation
-Tirumel�s Energy Spheres
+Tirumel's Energy Spheres
 Tobian's Ultimate Circle
 Tulrun's Tracer
-Tvash-Prull�s Bonefiddle
+Tvash-Prull's Bonefiddle
 Tvash-Prull, Fugue of
 Tymessul's Cerulean Traverse
 Tymessul's Planar Pacifier
 Tysiln's Wondrous Carriage
 Urfestra, Rotting Curse of
-Vaeraun�s Nightshield
+Vaeraun's Nightshield
 Vecna's Conflagration
 Vecna's Courier
 Volhom's Minute Missiles
 Volhom's Tentacle Arms
 Von Gasik's Refusal
 Xult's Magical Doom
-Zajimarn�s Avalanche
+Zajimarn's Avalanche
 Zajimarn's Field of Icy Razors
-Zajimarn�s Ice Claw Prison
+Zajimarn's Ice Claw Prison
 Zagig's Amusing Alteration
 Zagig's Canned Laughter
 Zagig's Gender Shift

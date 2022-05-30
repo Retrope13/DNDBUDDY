@@ -1,0 +1,6 @@
+John
+Barbarian
+4990
+10
+[54, 54, 54, 54, 54, 54] 
+['Club           1d4', 'Dagger         1d4', 'Greatclub      1d8', 'Quarterstaff   1d6']

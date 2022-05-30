@@ -30,4 +30,3 @@ Blowgun 1 piercing 10
 Crowssbow 1d6 piercing 3
 Crossbow 1d10 piercing 8
 Longbow 1d8 piercing 10
-blowpoke 1d14 slashing 10

@@ -1,0 +1,8 @@
+Sam
+barb
+4885
+5
+[5, 5, 5, 5, 5, 5] 
+['Battleaxe      1d8', 'Blowgun        1', 'Crossbow       1d8']
+['Breastplate     14+D', 'Chain_Mail      16', 'Leather         11+D']
+["Abbathor's Greed", "Acererak's Blackstone", "Azuth's Spellshield", "Bigby's Dextrous Digits", "Bigby's Strangling Grip", "Dariastren's Shadow Blight", "Drawmij's Instant Exit", "Evard's Menacing Tentacles", "Ghorus Toth's Metal Melt", "Hibyrntic's Curse", "Jannes' Impressive Demeanor", "Kreshenk's Shadow Mask", "Leomund's Lamentable Belaborment", "Melf's Acid Arrow", "Mordenkainen's Encompassing Vision", "Mordenkainen's Protection From Avians", "Nahal's Reckless Dweomer", "Nybor's Joyful Voyage", "Nystul's Dancing Werelight", "Odeen's Magic Cloud", "Otiluke's Dispelling Screen", "Otiluke's Steaming Sphere", "Otto's Soothing Vibrations", "Purge of Garyx", "Righteousness of Heironeous", "Rotting Curse of Urfestra"]

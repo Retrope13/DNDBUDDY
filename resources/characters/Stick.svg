@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg824"
+   width="860"
+   height="615"
+   viewBox="0 0 860 615"
+   sodipodi:docname="Stick.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   inkscape:export-filename="C:\Users\sammc\OneDrive\Desktop\Coding projects\DNDBuddy\DNDBUDDY\resources\characters\Stick.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs828" />
+  <sodipodi:namedview
+     id="namedview826"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.92901184"
+     inkscape:cx="222.27919"
+     inkscape:cy="307.31578"
+     inkscape:window-width="1284"
+     inkscape:window-height="1040"
+     inkscape:window-x="-432"
+     inkscape:window-y="185"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g830" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g830"
+     style="opacity:0" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Stick"
+     style="opacity:1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 232.23601,182.45193 -100.37547,103.87381 20.45184,20.18274 79.38542,-83.42198 1.88373,140.74094 -68.89041,212.05328 h 44.94023 l 52.206,-198.59812 56.24256,197.5217 h 42.24919 l -69.1595,-209.90044 1.34551,-142.62467 81.80736,82.88377 23.41197,-19.91363 -103.33561,-103.33561 z"
+       id="path1280" />
+    <ellipse
+       style="opacity:1;fill:#000080;stroke:#585858;stroke-width:1.1611;stroke-linecap:round;stroke-linejoin:round"
+       id="path1165"
+       cx="260.49185"
+       cy="105.08479"
+       rx="71.298775"
+       ry="64.436653" />
+  </g>
+</svg>
